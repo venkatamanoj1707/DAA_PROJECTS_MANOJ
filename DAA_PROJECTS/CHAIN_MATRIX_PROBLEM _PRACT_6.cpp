@@ -1,3 +1,8 @@
+// Matrix Chain Multiplication: Uses dynamic programming to find the optimal order of matrix multiplication with minimum cost.
+// Stores the minimum number of scalar multiplications required for each subproblem.
+// Time Complexity: O(n^3).
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
