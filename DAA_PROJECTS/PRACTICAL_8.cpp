@@ -1,3 +1,7 @@
+// Graph: Represents a collection of vertices and edges to show connections between nodes.
+// DFS: Explores a graph deeply by visiting adjacent unvisited vertices before backtracking.
+// BFS: Explores a graph level by level using a queue.
+
 #include <iostream>
 #include <vector>
 #include <queue>
