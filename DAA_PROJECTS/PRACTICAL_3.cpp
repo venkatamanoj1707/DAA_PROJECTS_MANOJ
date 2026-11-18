@@ -1,3 +1,6 @@
+// Heap Sort: Builds a max heap and repeatedly moves the largest element to the end of the array to sort the elements in ascending order.
+// Heap Sort: Builds a max heap and repeatedly moves the largest element to the end of the array to sort the elements in ascending order.
+// Time Complexity: Best, Average and Worst Case – O(n log n).
 #include <iostream>
 #include <vector>
 #include <chrono>
