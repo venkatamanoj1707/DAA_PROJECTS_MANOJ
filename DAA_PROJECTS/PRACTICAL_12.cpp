@@ -1,3 +1,7 @@
+// Travelling Salesman Problem (TSP): Finds the shortest possible route that visits every city exactly once and returns to the starting city.
+// Uses dynamic programming to find the minimum travel cost.
+// Time Complexity: O(n^2 * 2^n).
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
