@@ -1,3 +1,9 @@
+// Bubble Sort: Repeatedly compares and swaps adjacent elements.
+// Selection Sort: Finds the smallest element and places it in the correct position.
+// Insertion Sort: Inserts each element into its correct position in the sorted portion.
+// Merge Sort: Divides the array into smaller parts and merges them in sorted order.
+// Quick Sort: Selects a pivot and partitions the array into smaller and larger elements.
+
 #include <iostream>
 #include <vector>
 #include <chrono>
