@@ -1,3 +1,7 @@
+// Coin Change Problem: Uses dynamic programming to find the minimum number of coins required to make a given amount.
+// Stores solutions of smaller subproblems to calculate the optimal result.
+// Time Complexity: O(n * amount).
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
