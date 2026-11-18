@@ -1,3 +1,5 @@
+// Kruskal's Algorithm: Finds the Minimum Spanning Tree (MST) by selecting edges in increasing order of weight without forming cycles.
+// Time Complexity: O(E log E).
 #include <iostream>
 #include <algorithm>
 using namespace std;
