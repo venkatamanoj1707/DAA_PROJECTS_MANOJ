@@ -1,3 +1,7 @@
+// Knapsack Problem: Uses dynamic programming to select items with maximum value without exceeding the given weight capacity.
+// Stores the optimal results of smaller subproblems in a DP table to find the maximum profit.
+// Time Complexity: O(n * W).
+
 #include <iostream>
 #include <vector>
 using namespace std;
