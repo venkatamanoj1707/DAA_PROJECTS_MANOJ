@@ -1,3 +1,6 @@
+// Prim's Algorithm: Finds the Minimum Spanning Tree (MST) of a connected weighted graph by selecting the minimum-weight edge without forming a cycle.
+// Time Complexity: O(V^2) using an adjacency matrix.
+
 #include <iostream>
 #include <climits>
 using namespace std;
