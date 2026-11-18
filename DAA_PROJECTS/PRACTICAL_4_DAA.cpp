@@ -1,3 +1,7 @@
+// Iterative Method: Calculates factorial using a loop by multiplying numbers from 1 to n.
+// Recursive Method: Calculates factorial by calling the same function repeatedly until the base condition is reached.
+// Time Complexity: O(n) for both iterative and recursive methods.
+
 #include <iostream>
 #include <chrono>
 
