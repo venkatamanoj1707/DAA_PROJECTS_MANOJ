@@ -1,3 +1,7 @@
+// Floyd-Warshall Algorithm: Finds the shortest paths between all pairs of vertices in a weighted graph.
+// Uses dynamic programming to update the shortest distances through intermediate vertices.
+// Time Complexity: O(V^3).
+
 #include<iostream>
 using namespace std;
 
