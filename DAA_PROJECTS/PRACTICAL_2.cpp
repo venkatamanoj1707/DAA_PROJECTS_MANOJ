@@ -1,3 +1,6 @@
+// Linear Search: Checks each element one by one until the required element is found.
+// Binary Search: Repeatedly divides a sorted array into two halves to find the required element.
+
 #include <iostream>
 #include <vector>
 #include <chrono>
